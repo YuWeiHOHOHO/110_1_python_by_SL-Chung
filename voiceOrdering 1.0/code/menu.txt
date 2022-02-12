@@ -1,0 +1,12 @@
+漢堡 hamburger 80
+炸雞 fried checken 100
+
+可樂 cola 20
+玉米濃湯 corn soup 30
+茶 tea 20
+
+沙拉 salad 35
+冰淇淋 ice cream 15
+雞塊 chicken nuggets 30
+薯條 french fries 35
+ 

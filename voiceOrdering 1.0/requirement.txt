@@ -1,0 +1,7 @@
+python 3.9.7
+pyaudio 0.2.11
+pypinyin 0.44.0
+pymysql 1.0.2
+eel 0.14.0
+speechrecognition 3.8.1
+PyAudio-0.2.11-cp39-cp39-win_amd64.whl
